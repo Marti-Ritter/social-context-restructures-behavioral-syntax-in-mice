@@ -1,0 +1,3 @@
+[submodule "behavioral_analysis"]
+	path = behavioral_analysis
+	url = https://github.com/Marti-Ritter/behavioral-analysis.git

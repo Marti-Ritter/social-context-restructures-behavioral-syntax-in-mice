@@ -1,0 +1,15 @@
+# https://stackoverflow.com/a/987162
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+!Step*
+!behavioral_analysis
+
+# ...even if they are in subdirectories; though not here
+# !*/
+
+# again except caches... should not be needed
+__pycache__/
