@@ -1,4 +1,4 @@
-# Social Context Restructures Behavioral Syntax in Mice (Code)
+# Social Context Restructures Behavioral Syntax in Mice
 ![Example trajectories 32 syllables with dyadic-modulated syllables marked in color](./images/SupplFig1PanelA.png)
 
 ## Abstract
