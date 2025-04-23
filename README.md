@@ -1,5 +1,5 @@
 # Social Context Restructures Behavioral Syntax in Mice (Code)
-![Example trajectories 32 syllables with dyadic-modulated syllables marked in color](images/SupplFig1PanelA.png)
+![Example trajectories 32 syllables with dyadic-modulated syllables marked in color](./images/SupplFig1PanelA.png)
 
 ## Abstract
 The study of social behavior in mice has grown increasingly relevant for unraveling associated brain circuits and advancing the development of treatments for psychiatric symptoms involving social withdrawal or social anxiety. However, a data-driven understanding  of behavior and its modulation in solitary and social contexts is lacking. In this study, we employed motion sequencing (“MoSeq”) to decompose mouse behaviors into discrete units (“Syllables”) and investigate whether—and how—the behavioral repertoire differs between solitary and dyadic (social) settings. 
