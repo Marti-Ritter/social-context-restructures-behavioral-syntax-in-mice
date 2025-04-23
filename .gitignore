@@ -1,6 +1,6 @@
 # https://stackoverflow.com/a/987162
 # Ignore everything
-*
+# *
 
 # But not these files...
 !.gitignore
@@ -8,7 +8,7 @@
 !environment.yml
 !Step*
 !behavioral_analysis
-!images/
+!images/**
 
 # ...even if they are in subdirectories; though not here
 # !*/
